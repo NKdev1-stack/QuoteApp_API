@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197923465017",
+    "firebase_url": "https://quoteapp-nkdev-default-rtdb.firebaseio.com",
+    "project_id": "quoteapp-nkdev",
+    "storage_bucket": "quoteapp-nkdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197923465017:android:efb09855d3018b68b86ae8",
+        "android_client_info": {
+          "package_name": "us.quotesapps.nk.quoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197923465017-2tmuorp6s7tllaallrv6k95mvjuqklvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.quotesapps.nk.quoteapp",
+            "certificate_hash": "441cc95bde1c800e991bf1737ee5b135bb9cffe5"
+          }
+        },
+        {
+          "client_id": "197923465017-2js4ok9k55ij7tvau9122nl7n33bblbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhS2PCjZDz7jBNarEtPXvzy_htm0RNkEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197923465017-2js4ok9k55ij7tvau9122nl7n33bblbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
